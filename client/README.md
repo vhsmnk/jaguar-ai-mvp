@@ -4,7 +4,7 @@ AI-powered conversational workspace
 Uma aplicação de inteligência artificial construída
 com React, Node.js, Express e Groq.
 
-[ SCREENSHOT DO JAGUAR ]
+![JAGUAR Demo](./docs/jaguar-demo.gif)
 
 Features
 ✓ Conversational AI
