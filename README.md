@@ -9,7 +9,15 @@ A proposta do Jaguar é evoluir de um assistente conversacional para uma camada 
 
 ## 🚀 Demo
 
-![JAGUAR Demo](./docs/jaguar-demo.gif)
+![JAGUAR Demo](./docs/jaguar-demo1.gif)
+
+![JAGUAR Demo](./docs/jaguar-demo2.gif)
+
+![JAGUAR Demo](./docs/jaguar-demo3.gif)
+
+![JAGUAR Demo](./docs/jaguar-demo4.gif)
+
+![JAGUAR Demo](./docs/jaguar-demo5.gif)
 
 
 ## ✨ Features
